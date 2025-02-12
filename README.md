@@ -1,6 +1,6 @@
-## Hi there, I am Lambo
+## Hi there, I am Lambo and welcome to my github.
 
-<img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZCodingAccount&locale=en&line_height=33&theme=&langs_count=5"/>
+<img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzser&locale=en&line_height=33&theme=dark&langs_count=5"/>
 <!--
 **fuzser/fuzser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
