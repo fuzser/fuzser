@@ -75,8 +75,9 @@ Commercial AI Content Creation Platform
 ### Performance Optimization
 
 ```diff
-- Image generation batch time: ~48s
-+ Optimized to: ~15s
++ Redesigned OSS upload workflow
++ Reduced redundant file uploads by 93%
++ Significantly decreased bandwidth usage and storage overhead
 ```
 
 ### Stack
