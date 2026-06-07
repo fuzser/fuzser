@@ -115,7 +115,7 @@ Desktop AI Apps
   <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="linkedin.com/in/bohua-lan-680995290/">
   <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
